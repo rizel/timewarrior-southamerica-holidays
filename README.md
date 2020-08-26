@@ -10,3 +10,5 @@ Open the file ~/.timewarrior/timewarrior.cfg in edition mode to add an import li
 import /path/to/file/holidays.es-BO
 
 Use  $timew month  to see if there's a holiday in your country for the current month.
+
+Thanks to <public holidays global> for providing the data.
