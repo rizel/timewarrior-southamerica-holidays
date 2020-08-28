@@ -1,0 +1,38 @@
+define holidays:
+
+  es-PY:
+    2020_01_01 = Año Nuevo
+    2020_03_01 = Día de los Héroes de la Patria
+    2020_04_09 = Jueves Santo
+    2020_04_10 = Viernes Santo
+    2020_05_01 = Día de los Trabajadores
+    2020_05_14 = Día de la Independencia
+    2020_06_12 = Día de la Paz del Chaco
+    2020_08_15 = Día de la Fundación de Asunción
+    2020_09_28 = Feriado de Victoria de Boquerón
+    2020_12_08 = Día de la Virgen de Caacupé
+    2020_12_25 = Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_03_01 = Día de los Héroes de la Patria
+    2021_04_01 = Jueves Santo
+    2021_04_02 = Viernes Santo
+    2021_05_01 = Día de los Trabajadores
+    2021_05_15 = Día de la Independencia
+    2021_06_12 = Día de la Paz del Chaco
+    2021_08_15 = Día de la Fundación de Asunción
+    2021_09_29 = Feriado de Victoria de Boquerón
+    2021_12_08 = Día de la Virgen de Caacupé
+    2021_12_25 = Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_03_01 = Día de los Héroes de la Patria
+    2022_04_14 = Jueves Santo
+    2022_04_15 = Viernes Santo
+    2022_05_01 = Día de los Trabajadores
+    2022_05_14 = Día de la Independencia
+    2022_06_12 = Día de la Paz del Chaco
+    2022_08_15 = Día de la Fundación de Asunción
+    2022_09_29 = Victoria de Boquerón
+    2022_12_08 = Día de la Virgen de Caacupé
+    2022_12_25 = Navidad

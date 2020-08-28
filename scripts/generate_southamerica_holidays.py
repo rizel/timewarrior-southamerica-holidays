@@ -7,7 +7,7 @@ from this site https://publicholidays.com.bo/es/
 so to be used with timewarrior.
 
 USAGE:
-$ python generate_bolivian_holidays.py bolivia 2020
+$ python generate_southamerica_holidays.py bolivia 2020
 '''
 
 import sys
@@ -22,7 +22,7 @@ from pathlib import Path
 from pprint import pprint
 
 countries = {
-"argentina"           : ".com.ar", # generates error
+"argentina"           : ".com.ar",
 "bolivia"             : ".com.bo",
 "brasil"              : ".br.x", # http://www.public-holidays.us/BR_ES_2020_Feriados%20nacionais
 "chile"               : ".cl",

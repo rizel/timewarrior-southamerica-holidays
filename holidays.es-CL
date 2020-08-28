@@ -1,0 +1,50 @@
+define holidays:
+
+  es-CL:
+    2020_01_01 = Año Nuevo
+    2020_04_10 = Viernes Santo
+    2020_04_11 = Sábado Santo
+    2020_05_01 = Día del Trabajo
+    2020_05_21 = Día de las Glorias Navales
+    2020_06_29 = San Pedro y San Pablo
+    2020_07_16 = Día de la Virgen del Carmen
+    2020_08_15 = Asunción de la Virgen
+    2020_09_18 = Día de la Independencia
+    2020_09_19 = Día de las Glorias del Ejército
+    2020_10_12 = Día de la Raza
+    2020_10_31 = Día de la Reforma
+    2020_11_01 = Día de Todos los Santos
+    2020_12_08 = Inmaculada Concepción
+    2020_12_25 = Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_04_02 = Viernes Santo
+    2021_04_03 = Sábado Santo
+    2021_05_01 = Día del Trabajo
+    2021_05_21 = Día de las Glorias Navales
+    2021_06_28 = San Pedro y San Pablo
+    2021_07_16 = Día de la Virgen del Carmen
+    2021_08_15 = Asunción de la Virgen
+    2021_09_18 = Día de la Independencia
+    2021_09_19 = Día de las Glorias del Ejército
+    2021_10_11 = Día de la Raza
+    2021_10_31 = Día de la Reforma
+    2021_11_01 = Día de Todos los Santos
+    2021_12_08 = Inmaculada Concepción
+    2021_12_25 = Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_04_15 = Viernes Santo
+    2022_04_16 = Sábado Santo
+    2022_05_01 = Día del Trabajo
+    2022_05_21 = Día de las Glorias Navales
+    2022_06_27 = San Pedro y San Pablo
+    2022_07_16 = Día de la Virgen del Carmen
+    2022_08_15 = Asunción de la Virgen
+    2022_09_18 = Día de la Independencia
+    2022_09_19 = Día de las Glorias del Ejército
+    2022_10_10 = Día de la Raza
+    2022_10_31 = Día de la Reforma
+    2022_11_01 = Día de Todos los Santos
+    2022_12_08 = Inmaculada Concepción
+    2022_12_25 = Navidad

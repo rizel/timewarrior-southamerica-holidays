@@ -1,0 +1,56 @@
+define holidays:
+
+  es-AR:
+    2020_01_01 = Año Nuevo
+    2020_02_24 = Carnaval
+    2020_02_25 = Carnaval
+    2020_03_23 = Día no laboral con Día Nacional de la Memoria por la Verdad y la Justicia
+    2020_03_24 = Día Nacional de la Memoria por la Verdad y la Justicia
+    2020_04_02 = Día del Veterano y de los Caídos en la Guerra de Malvinas
+    2020_04_10 = Viernes Santo
+    2020_05_01 = Día del Trabajador
+    2020_05_25 = Día de la Revolución de Mayo
+    2020_06_15 = Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+    2020_06_20 = Día Paso a la Inmortalidad del General Manuel Belgrano
+    2020_07_09 = Día de la Independencia
+    2020_07_10 = Día no laboral con Día de la Independencia
+    2020_08_17 = Paso a la Inmortalidad del General José de San Martín
+    2020_10_12 = Día del Respeto a la Diversidad Cultural
+    2020_11_23 = Día de la Soberanía Nacional
+    2020_12_07 = Día no laboral con Inmaculada Concepción de María
+    2020_12_08 = Inmaculada Concepción de María
+    2020_12_25 = Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_02_15 = Carnaval
+    2021_02_16 = Carnaval
+    2021_03_24 = Día Nacional de la Memoria por la Verdad y la Justicia
+    2021_04_02 = Viernes Santo
+    2021_04_02 = Día del Veterano y de los Caídos en la Guerra de Malvinas
+    2021_05_01 = Día del Trabajador
+    2021_05_25 = Día de la Revolución de Mayo
+    2021_06_17 = Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+    2021_06_20 = Día Paso a la Inmortalidad del General Manuel Belgrano
+    2021_07_09 = Día de la Independencia
+    2021_08_16 = Paso a la Inmortalidad del General José de San Martín
+    2021_10_11 = Día del Respeto a la Diversidad Cultural
+    2021_11_22 = Día de la Soberanía Nacional
+    2021_12_08 = Inmaculada Concepción de María
+    2021_12_25 = Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_02_28 = Carnaval
+    2022_03_01 = Carnaval
+    2022_03_24 = Día Nacional de la Memoria por la Verdad y la Justicia
+    2022_04_02 = Día del Veterano y de los Caídos en la Guerra de Malvinas
+    2022_04_15 = Viernes Santo
+    2022_05_01 = Día del Trabajador
+    2022_05_25 = Día de la Revolución de Mayo
+    2022_06_17 = Día Paso a la Inmortalidad del General Martín Miguel de Güemes
+    2022_06_20 = Día Paso a la Inmortalidad del General Manuel Belgrano
+    2022_07_09 = Día de la Independencia
+    2022_08_15 = Paso a la Inmortalidad del General José de San Martín
+    2022_10_10 = Día del Respeto a la Diversidad Cultural
+    2022_11_21 = Día de la Soberanía Nacional
+    2022_12_08 = Inmaculada Concepción de María
+    2022_12_25 = Navidad

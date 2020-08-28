@@ -1,0 +1,47 @@
+define holidays:
+
+  es-VE:
+    2020_01_01 = Año Nuevo
+    2020_02_24 = Carnaval
+    2020_02_25 = Carnaval
+    2020_04_09 = Jueves Santo
+    2020_04_10 = Viernes Santo
+    2020_04_19 = Declaración de la Independencia
+    2020_05_01 = Día del Trabajo
+    2020_06_24 = Batalla de Carabobo
+    2020_07_05 = Día de la Independencia
+    2020_07_24 = Día de Simón Bolívar
+    2020_10_12 = Día de la Resistencia Indígena
+    2020_12_24 = Víspera de Navidad
+    2020_12_25 = Navidad
+    2020_12_31 = Fiesta de Fin de Año
+
+    2021_01_01 = Año Nuevo
+    2021_02_15 = Carnaval
+    2021_02_16 = Carnaval
+    2021_04_01 = Jueves Santo
+    2021_04_02 = Viernes Santo
+    2021_04_19 = Declaración de la Independencia
+    2021_05_01 = Día del Trabajo
+    2021_06_24 = Batalla de Carabobo
+    2021_07_05 = Día de la Independencia
+    2021_07_24 = Día de Simón Bolívar
+    2021_10_12 = Día de la Resistencia Indígena
+    2021_12_24 = Víspera de Navidad
+    2021_12_25 = Navidad
+    2021_12_31 = Fiesta de Fin de Año
+
+    2022_01_01 = Año Nuevo
+    2022_02_28 = Carnaval
+    2022_03_01 = Carnaval
+    2022_04_14 = Jueves Santo
+    2022_04_15 = Viernes Santo
+    2022_04_19 = Declaración de la Independencia
+    2022_05_01 = Día del Trabajo
+    2022_06_24 = Batalla de Carabobo
+    2022_07_05 = Día de la Independencia
+    2022_07_24 = Día de Simón Bolívar
+    2022_10_12 = Día de la Resistencia Indígena
+    2022_12_24 = Víspera de Navidad
+    2022_12_25 = Navidad
+    2022_12_31 = Fiesta de Fin de Año

@@ -1,0 +1,59 @@
+define holidays:
+
+  es-CO:
+    2020_01_01 = Año Nuevo
+    2020_01_06 = Día de los Reyes Magos
+    2020_03_23 = Día de San José
+    2020_04_09 = Jueves Santo
+    2020_04_10 = Viernes Santo
+    2020_05_01 = Día del Trabajo
+    2020_05_25 = Día de la Ascensión
+    2020_06_15 = Corpus Christi
+    2020_06_22 = Sagrado Corazón
+    2020_06_29 = San Pedro y San Pablo
+    2020_07_20 = Día de la Independencia
+    2020_08_07 = Batalla de Boyacá
+    2020_08_17 = Día de la Asunción
+    2020_10_12 = Celebración del Día de la Raza
+    2020_11_02 = Día de todos los Santos
+    2020_11_16 = Independencia de Cartagena
+    2020_12_08 = Inmaculada Concepción
+    2020_12_25 = Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_01_11 = Día de los Reyes Magos
+    2021_03_22 = Día de San José
+    2021_04_01 = Jueves Santo
+    2021_04_02 = Viernes Santo
+    2021_05_01 = Día del Trabajo
+    2021_05_17 = Día de la Ascensión
+    2021_06_07 = Corpus Christi
+    2021_06_14 = Sagrado Corazón
+    2021_07_05 = San Pedro y San Pablo
+    2021_07_20 = Día de la Independencia
+    2021_08_07 = Batalla de Boyacá
+    2021_08_16 = Día de la Asunción
+    2021_10_18 = Celebración del Día de la Raza
+    2021_11_01 = Día de todos los Santos
+    2021_11_15 = Independencia de Cartagena
+    2021_12_08 = Inmaculada Concepción
+    2021_12_25 = Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_01_10 = Día de los Reyes Magos
+    2022_03_21 = Día de San José
+    2022_04_14 = Jueves Santo
+    2022_04_15 = Viernes Santo
+    2022_05_01 = Día del Trabajo
+    2022_05_30 = Día de la Ascensión
+    2022_06_20 = Corpus Christi
+    2022_06_27 = Sagrado Corazón
+    2022_07_04 = San Pedro y San Pablo
+    2022_07_20 = Día de la Independencia
+    2022_08_07 = Batalla de Boyacá
+    2022_08_15 = Día de la Asunción
+    2022_10_10 = Celebración del Día de la Raza
+    2022_11_07 = Día de todos los Santos
+    2022_11_14 = Independencia de Cartagena
+    2022_12_08 = Inmaculada Concepción
+    2022_12_25 = Navidad

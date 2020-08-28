@@ -3,19 +3,19 @@ Holidays definitions for South america countries to be loaded by timewarrior.
 
 Download the corresponding file to your country:
 
-Argentina 			es-ar
-Bolivia 			es-bo
+Argentina 			holidays.es-AR
+Bolivia 			holidays.es-BO
 Brasil				pt-br
-Chile 				es-cl
-Colombia 			es-co
-Ecuador 			es-ec
+Chile 				holidays.es-CL
+Colombia 			holidays.es-CO
+Ecuador 			holidays.es-EC
 Guayana             en-gy (*)
-Paraguay 			es-py
-Peru 				es-pe
+Paraguay 			holidays.es-PY
+Peru 				holidays.es-PE
 Surinam             nl-sr (*)
 Trinidad y Tobago   en-tt (*)
-Uruguay 			es-uy
-Venezuela 			es-ve
+Uruguay 			holidays.es-UY
+Venezuela 			holidays.es-VE
 Francia(Guayana Francesa) (*)
 
 
@@ -33,4 +33,4 @@ import /path/to/file/holidays.es-BO
 
 Use  $timew month  to see if there's a holiday in your country for the current month.
 
-Thanks to <public holidays global> for providing the data.
+Thanks to public holidays global for providing the data.

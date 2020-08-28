@@ -1,0 +1,50 @@
+define holidays:
+
+  es-UY:
+    2020_01_01 = Año Nuevo
+    2020_01_06 = Día de Reyes
+    2020_02_24 = Carnaval
+    2020_02_25 = Carnaval
+    2020_04_09 = Jueves Santo
+    2020_04_10 = Viernes Santo
+    2020_04_19 = Desembarco de los 33 orientales
+    2020_05_01 = Día de los Trabajadores
+    2020_05_18 = Batalla de las Piedras
+    2020_06_19 = Natalicio de Artigas
+    2020_07_18 = Día de la Constitución
+    2020_08_25 = Día de la Independencia
+    2020_10_12 = Día de la Raza
+    2020_11_02 = Día de los Difuntos
+    2020_12_25 = Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_01_06 = Día de Reyes
+    2021_02_15 = Carnaval
+    2021_02_16 = Carnaval
+    2021_04_01 = Jueves Santo
+    2021_04_02 = Viernes Santo
+    2021_04_19 = Desembarco de los 33 orientales
+    2021_05_01 = Día de los Trabajadores
+    2021_05_17 = Batalla de las Piedras
+    2021_06_19 = Natalicio de Artigas
+    2021_07_18 = Día de la Constitución
+    2021_08_25 = Día de la Independencia
+    2021_10_11 = Día de la Raza
+    2021_11_02 = Día de los Difuntos
+    2021_12_25 = Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_01_06 = Día de Reyes
+    2022_02_28 = Carnaval
+    2022_03_01 = Carnaval
+    2022_04_14 = Jueves Santo
+    2022_04_15 = Viernes Santo
+    2022_04_18 = Desembarco de los 33 orientales
+    2022_05_01 = Día de los Trabajadores
+    2022_05_16 = Batalla de las Piedras
+    2022_06_19 = Natalicio de Artigas
+    2022_07_18 = Día de la Constitución
+    2022_08_25 = Día de la Independencia
+    2022_10_10 = Día de la Raza
+    2022_11_02 = Día de los Difuntos
+    2022_12_25 = Navidad

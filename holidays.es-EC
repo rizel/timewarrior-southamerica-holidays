@@ -1,0 +1,41 @@
+define holidays:
+
+  es-EC:
+    2020_01_01 = Año Nuevo
+    2020_02_24 = Carnaval
+    2020_02_25 = Carnaval
+    2020_04_10 = Viernes Santo
+    2020_05_01 = Día del Trabajo
+    2020_05_25 = Batalla de Pichincha
+    2020_08_10 = Día Nacional
+    2020_10_09 = Independencia de Guayaquil
+    2020_11_02 = Día de los Difuntos
+    2020_11_03 = Independencia de Cuenca
+    2020_12_25 = Día de Navidad
+
+    2021_01_01 = Año Nuevo
+    2021_02_15 = Carnaval
+    2021_02_16 = Carnaval
+    2021_04_02 = Viernes Santo
+    2021_05_01 = Día del Trabajo
+    2021_05_24 = Batalla de Pichincha
+    2021_08_10 = Día Nacional
+    2021_10_09 = Independencia de Guayaquil
+    2021_11_02 = Día de los Difuntos
+    2021_11_03 = Independencia de Cuenca
+    2021_12_25 = Día de Navidad
+
+    2022_01_01 = Año Nuevo
+    2022_02_28 = Carnaval
+    2022_03_01 = Carnaval
+    2022_04_15 = Viernes Santo
+    2022_05_01 = Día del Trabajo
+    2022_05_02 = Feriado del Día del Trabajo
+    2022_05_24 = Batalla de Pichincha
+    2022_08_10 = Día Nacional
+    2022_10_09 = Independencia de Guayaquil
+    2022_10_10 = Feriado de la Independencia de Guayaquil
+    2022_11_02 = Día de los Difuntos
+    2022_11_03 = Independencia de Cuenca
+    2022_12_25 = Día de Navidad
+    2022_12_26 = Christmas Holiday
