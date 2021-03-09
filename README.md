@@ -6,7 +6,7 @@ Download the corresponding file to your country:
 
 * Argentina 				->	holidays.es-AR
 * Bolivia 					->	holidays.es-BO
-* Brasil					->	pt-br
+* Brasil					->	holidays.pt-BR
 * Chile 					->	holidays.es-CL
 * Colombia 					->	holidays.es-CO
 * Ecuador 					->	holidays.es-EC
