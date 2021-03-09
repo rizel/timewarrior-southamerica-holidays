@@ -10,22 +10,14 @@ Download the corresponding file to your country:
 * Chile 					->	holidays.es-CL
 * Colombia 					->	holidays.es-CO
 * Ecuador 					->	holidays.es-EC
-* Guayana   				->  en-gy (*)
+* Guyana  	 				->  en-gy (missing) https://publicholidays.gy/2021-dates/
 * Paraguay 					->	holidays.es-PY
 * Peru 						->	holidays.es-PE
-* Surinam   				->  nl-sr (*)
-* Trinidad y Tobago 		->  en-tt (*)
+* Surinam   				->  nl-sr (missing) https://publicholidays.la/suriname/2021-dates/
+* Trinidad y Tobago 		->  en-tt (missing) https://publicholidays.la/trinidad-and-tobago/2021-dates/
 * Uruguay 					->	holidays.es-UY
 * Venezuela 				->	holidays.es-VE
-* Francia(Guayana Francesa) ->  (*)
-
-
-Islas Malvinas
-Islas Georgias del sur y sandwich del sur
-Aruba              de-
-Curazao
-Bonaire
-
+* Francia(Guayana Francesa) ->  (missing) https://publicholidays.la/french-guiana/2021-dates/
 
 
 Open the file ~/.timewarrior/timewarrior.cfg in edition mode to add an import line indicating the location of the holidays\' file.
@@ -34,4 +26,4 @@ Open the file ~/.timewarrior/timewarrior.cfg in edition mode to add an import li
 
 Use  `$ timew month`  to see if there's a holiday in your country for the current month.
 
-Thanks to public holidays global for providing the data.
+Thanks to [public holidays global](https://publicholidays.global/) for providing the data.
