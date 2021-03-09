@@ -1,0 +1,24 @@
+define holidays:
+
+  pt-BR:
+    2021_01_01 = Confraternização Universal
+    2021_02_16 = Terça-feira de Carnaval
+    2021_04_02 = Sexta Feira Santa ou Paixão de Cristo 
+    2021_04_21 = Tiradentes
+    2021_05_01 = Dia do Trabalho
+    2021_09_07 = Independência do Brasil
+    2021_10_12 = Nossa Senhora Aparecida
+    2021_11_02 = Finados
+    2021_11_15 = Proclamação da República Brasileira
+    2021_12_25 = Natal
+
+    2022_01_01 = Confraternização Universal
+    2022_03_01 = Terça-feira de Carnaval
+    2022_04_15 = Sexta Feira Santa ou Paixão de Cristo 
+    2022_04_21 = Tiradentes
+    2022_05_01 = Dia do Trabalho
+    2022_09_07 = Independência do Brasil
+    2022_10_12 = Nossa Senhora Aparecida
+    2022_11_02 = Finados
+    2022_11_15 = Proclamação da República Brasileira
+    2022_12_25 = Natal

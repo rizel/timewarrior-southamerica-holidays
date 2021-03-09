@@ -20,7 +20,7 @@ def data_extraction(country_name, year, tree):
    
     for tr_element in table_content[:-1]:
         attributes = tr_element.attrib
-        pprint(attributes)
+        # pprint(attributes)
         if (attributes):
             td_elements = tr_element.findall('td')
             date        = td_elements[0].text
@@ -63,4 +63,7 @@ def extract_and_write_for(country_name, year):
     response    = requests.get(url)
     tree        = etree.parse(io.StringIO(response.text), parser)
 
-    special_data_extraction(country_name, year, tree)
+    if (country_name == 'brasil'):
+        special_data_extraction(country_name, year, tree)
+    else:
+        data_extraction(country_name, year, tree)
