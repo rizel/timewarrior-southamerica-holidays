@@ -8,12 +8,14 @@ COUNTRIES = {
 	"chile"               : ".cl",
 	"colombia"            : ".co",
 	"ecuador"             : ".la/ecuador",
-	"guyana"              : ".gy.x", #
+	"guyana"              : ".gy",
 	"paraguay"            : ".com.py",
 	"peru"                : ".pe",
-	"surinam"             : ".sr.x", #
-	"trinidad y tobago"   : ".la/trinidad-and-tobago", #
-	"uruguay"             : ".la/uruguay", #
+	"suriname"            : ".la/suriname",
+	"trinidad-and-tobago" : ".la/trinidad-and-tobago",
+	"uruguay"             : ".la/uruguay",
 	"venezuela"           : ".com.ve",
-	"guayana francesa"    : "x"
+	"french-guiana"       : ".la/french-guiana"
 }
+
+ENGLISH_CONTENTS = ["trinidad-and-tobago", "suriname", "french-guiana", "guyana"]

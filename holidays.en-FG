@@ -1,0 +1,27 @@
+define holidays:
+  en-FG:
+    2021_01_01 = New Year's Day
+    2021_04_05 = Easter Monday
+    2021_05_01 = Labour Day
+    2021_05_08 = Victory Day
+    2021_05_13 = Ascension Day
+    2021_05_24 = Whit Monday
+    2021_06_10 = Abolition Day
+    2021_07_14 = National Day
+    2021_08_15 = Assumption Day
+    2021_11_01 = All Saints' Day
+    2021_11_11 = Armistice Day
+    2021_12_25 = Christmas Day
+
+    2022_01_01 = New Year's Day
+    2022_04_18 = Easter Monday
+    2022_05_01 = Labour Day
+    2022_05_08 = Victory Day
+    2022_05_26 = Ascension Day
+    2022_06_06 = Whit Monday
+    2022_06_10 = Abolition Day
+    2022_07_14 = National Day
+    2022_08_15 = Assumption Day
+    2022_11_01 = All Saints' Day
+    2022_11_11 = Armistice Day
+    2022_12_25 = Christmas Day
