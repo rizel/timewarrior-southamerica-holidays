@@ -32,6 +32,6 @@ open the file `~/.timewarrior/timewarrior.cfg` in edition mode to add an import 
 
 Use  `$ timew month`  to see if there's a holiday in your country for the current month.
 In the following example ran in March, the file `holidays.en-GY` (holidays for Guyana) was loaded. There's a holiday on March 29, so the output for `$ timew month` is:
-![https://raw.githubusercontent.com/rizel/timewarrior-southamerica-holidays/master/output.png]
+!(https://raw.githubusercontent.com/rizel/timewarrior-southamerica-holidays/master/output.png)
 
 Thanks to [public holidays global](https://publicholidays.global/) for providing the data.
