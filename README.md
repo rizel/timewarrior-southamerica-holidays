@@ -14,13 +14,13 @@ Chile 						|	holidays.es-CL
 Colombia 					|	holidays.es-CO
 Ecuador 					|	holidays.es-EC
 Guyana  	 				|   holidays.en-GY
+Guayana Francesa 			|   holidays.en-FG
 Paraguay 					|	holidays.es-PY
 Peru 						|	holidays.es-PE
 Suriname   					|   holidays.en-SR
 Trinidad and Tobago 		|   holidays.en-TT
 Uruguay 					|	holidays.es-UY
 Venezuela 					|	holidays.es-VE
-Francia(Guayana Francesa) 	|   holidays.en-FG
 
 
 
